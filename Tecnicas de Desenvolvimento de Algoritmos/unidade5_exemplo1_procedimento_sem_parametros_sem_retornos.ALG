@@ -1,4 +1,4 @@
-// Disciplina  : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 06/10/2022
 
@@ -22,7 +22,7 @@ fimprocedimento
 procedimento multiplicar
    inicio
    resultado <- n1 * n2
-   escreval("Multiplicação:",resultado)
+   escreval("Multiplicaï¿½ï¿½o:",resultado)
 fimprocedimento
 
 procedimento dividir
@@ -31,7 +31,7 @@ procedimento dividir
       escreval("Impossivel dividir")
    senao
       resultado <- n1 / n2
-      escreval("Divisão:",resultado)
+      escreval("Divisï¿½o:",resultado)
    fimse
 fimprocedimento
 

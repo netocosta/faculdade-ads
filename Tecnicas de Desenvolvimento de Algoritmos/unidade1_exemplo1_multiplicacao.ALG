@@ -1,13 +1,13 @@
-// Disciplina   : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 04/10/2022
 
 algoritmo "exemplo1_multiplicacao"
 
-var // Seção de Declarações das variáveis
+var
 n1, n2, m: real
 
-inicio // Seção de Comandos, procedimento, funções, operadores, etc...
+inicio
        escreval("digite dois numeros")
        leia(n1)
        leia(n2)

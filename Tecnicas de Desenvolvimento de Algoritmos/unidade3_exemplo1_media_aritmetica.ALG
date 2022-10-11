@@ -1,14 +1,14 @@
-// Disciplina  : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 06/10/2022
 
 algoritmo "exemplo2_media_aritmetica"
 
 
-var // Seção de Declarações das variáveis
+var
 nota1, nota2, nota3, soma, media, nf: real
 
-inicio // Seção de Comandos, procedimento, funções, operadores, etc...
+inicio 
        escreval("digite a primeira nota")
        leia(nota1)
        escreval("digite a segunda nota")

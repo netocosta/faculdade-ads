@@ -1,14 +1,14 @@
-// Disciplina  : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 06/10/2022
 
 algoritmo "exemplo1_para_(for)"
 
 
-var // Seção de Declarações das variáveis
+var
 i: inteiro
 
-inicio // Seção de Comandos, procedimento, funções, operadores, etc...
+inicio
 
 // for ($i=0; $i<=5; $i++) {
 //    echo "Valor de i: {$i}";

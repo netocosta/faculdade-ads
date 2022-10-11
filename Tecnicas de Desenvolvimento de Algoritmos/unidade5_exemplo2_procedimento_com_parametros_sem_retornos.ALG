@@ -1,4 +1,4 @@
-// Disciplina  : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 06/10/2022
 
@@ -31,7 +31,7 @@ inicio
 escreval("Digite o primeiro numero")
 leia(salario)
 
-escreval("Salário:",salario)
+escreval("Salï¿½rio:",salario)
 imposto(salario)
 desconto(salario)
 

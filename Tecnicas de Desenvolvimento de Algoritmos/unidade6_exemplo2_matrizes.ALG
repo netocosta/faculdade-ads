@@ -1,4 +1,4 @@
-// Disciplina  : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 07/10/2022
 
@@ -11,14 +11,14 @@ i: inteiro
 inicio
 
 // gravacao
-//para i <- 1 até 5 passo 1 faça
-//   escreval("Digite o ",i,"º numero")
+//para i <- 1 atï¿½ 5 passo 1 faï¿½a
+//   escreval("Digite o ",i,"ï¿½ numero")
 //   leia(minhaVariavel[i])
 //fimpara
 
 //leitura
-//para i <- 1 até 5 passo 1 faça
-//   escreval("Conteudo da posição: ",i)
+//para i <- 1 atï¿½ 5 passo 1 faï¿½a
+//   escreval("Conteudo da posiï¿½ï¿½o: ",i)
 //   escreval(minhaVariavel[i])
 //fimpara
 

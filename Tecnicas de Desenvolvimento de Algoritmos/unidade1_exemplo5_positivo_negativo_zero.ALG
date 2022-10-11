@@ -1,13 +1,13 @@
-// Disciplina   : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 04/10/2022
 
 algoritmo "exemplo5_positivo_negativo_zero"
 
-var // Seção de Declarações das variáveis
+var
 num1, num2, diferenca: real
 
-inicio // Seção de Comandos, procedimento, funções, operadores, etc...
+inicio 
 
    escreval("Digite o primeiro numero")
    leia(num1)
@@ -17,12 +17,12 @@ inicio // Seção de Comandos, procedimento, funções, operadores, etc...
    diferenca <- num1-num2
    
    se diferenca < 0 entao
-      escreval("Diferença NEGATIVA: ",diferenca)
+      escreval("Diferenca NEGATIVA: ",diferenca)
    senao
       se diferenca > 0 entao
-         escreval("Diferença POSITIVA: ",diferenca)
+         escreval("Diferenca POSITIVA: ",diferenca)
       senao
-         escreval("Diferença é ZERO")
+         escreval("Diferenca eh ZERO")
       fimse
    fimse
        

@@ -1,16 +1,14 @@
-// Disciplina  : Técnicas de Desenvolvimento de Algoritmos
-// Disciplina  : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 06/10/2022
 
 algoritmo "exemplo3_mostra_o_maior"
 
 
-var // Seção de Declarações das variáveis
+var
 num1, num2: real
 
-inicio // Seção de Comandos, procedimento, funções, operadores, etc...
+inicio
    escreval("digite o primeiro numero")
    leia(num1)
    escreval("digite o primeiro numero")
@@ -20,9 +18,9 @@ inicio // Seção de Comandos, procedimento, funções, operadores, etc...
       escreval("Numeros iguais:",num1," e ",num2)
    senao
       se num1 > num2 entao
-         escreval("O primeiro numero que é o",num1," é o maior")
+         escreval("O primeiro numero que ï¿½ o",num1," ï¿½ o maior")
       senao
-         escreval("O segundo numero que é o",num2," é o maior")
+         escreval("O segundo numero que ï¿½ o",num2," ï¿½ o maior")
       fimse
    fimse
        

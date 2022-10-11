@@ -1,15 +1,15 @@
-// Disciplina  : Técnicas de Desenvolvimento de Algoritmos
+// Disciplina  : Tecnicas de Desenvolvimento de Algoritmos
 // Autor(a)    : Walmirino Neto
 // Data atual  : 05/10/2022
 
 algoritmo "exemplo3_desconto_produto"
 
 
-var // Seção de Declarações das variáveis
+var 
 preco, percentual, novo_preco: real
 
 
-inicio // Seção de Comandos, procedimento, funções, operadores, etc...
+inicio 
 
        escreval("digite o preco do produto")
        leia(preco)
@@ -18,6 +18,6 @@ inicio // Seção de Comandos, procedimento, funções, operadores, etc...
 
        novo_preco <- preco - ((preco * percentual) / 100)
        
-       escreval("Novo Preço: ", novo_preco)
+       escreval("Novo Preï¿½o: ", novo_preco)
 
 fimalgoritmo
