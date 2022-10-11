@@ -18,6 +18,6 @@ inicio
       novo_sal <- sal_atual * 1.10
    fimse
    
-   escreval("Novo sal�rio: ",novo_sal)
+   escreval("Novo salário: ",novo_sal)
    
 fimalgoritmo

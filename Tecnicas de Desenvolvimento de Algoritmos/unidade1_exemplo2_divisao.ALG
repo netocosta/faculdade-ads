@@ -14,7 +14,7 @@ inicio
        leia(n1)
        leia(n2)
        se (n1 = 0) ou (n2 = 0) entao
-              escreva("impossivel calcular, um dos numeros eh 0")
+              escreva("impossivel calcular, um dos numeros é 0")
        senao
               d <- n1 / n2
               escreva(d)

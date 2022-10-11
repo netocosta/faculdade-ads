@@ -9,7 +9,7 @@ var
 lado1, lado2, lado3: inteiro
 
 inicio
-   escreval("Informe a seguir o tamanho dos tr�s lados de um triangulo.")
+   escreval("Informe a seguir o tamanho dos três lados de um triangulo.")
    escreval("")
 
    escreval("Digite o primeiro lado")
@@ -20,12 +20,12 @@ inicio
    leia(lado3)
    
    se (lado1 = lado2) e (lado2 = lado3) entao
-      escreval("Triangulo equil�tero:",lado1,lado2,lado3)
+      escreval("Triangulo equilátero:",lado1,lado2,lado3)
    senao
       se (lado1 <> lado2) e (lado2 <> lado3) entao
          escreva("Triangulo escaleno:",lado1,lado2,lado3)
       senao
-         escreva("Triangulo is�sceles:",lado1,lado2,lado3)
+         escreva("Triangulo isósceles:",lado1,lado2,lado3)
       fimse
    fimse
       

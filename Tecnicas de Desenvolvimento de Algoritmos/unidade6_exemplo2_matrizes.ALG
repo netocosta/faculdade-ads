@@ -11,16 +11,16 @@ i: inteiro
 inicio
 
 // gravacao
-//para i <- 1 at� 5 passo 1 fa�a
-//   escreval("Digite o ",i,"� numero")
-//   leia(minhaVariavel[i])
-//fimpara
+para i <- 1 até 5 passo 1 faça
+   escreval("Digite o ",i,"º numero")
+   leia(minhaVariavel[i])
+fimpara
 
 //leitura
-//para i <- 1 at� 5 passo 1 fa�a
-//   escreval("Conteudo da posi��o: ",i)
-//   escreval(minhaVariavel[i])
-//fimpara
+para i <- 1 até 5 passo 1 faça
+   escreval("Conteudo da posição: ",i)
+   escreval(minhaVariavel[i])
+fimpara
 
 
 fimalgoritmo

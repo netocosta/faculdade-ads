@@ -18,6 +18,6 @@ inicio
 
        novo_preco <- preco - ((preco * percentual) / 100)
        
-       escreval("Novo Pre�o: ", novo_preco)
+       escreval("Novo Preço: ", novo_preco)
 
 fimalgoritmo

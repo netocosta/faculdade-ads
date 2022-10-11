@@ -31,7 +31,7 @@ inicio
 escreval("Digite o primeiro numero")
 leia(salario)
 
-escreval("Sal�rio:",salario)
+escreval("Salário:",salario)
 imposto(salario)
 desconto(salario)
 

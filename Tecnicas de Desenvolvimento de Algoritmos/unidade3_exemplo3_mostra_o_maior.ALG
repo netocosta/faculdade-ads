@@ -18,9 +18,9 @@ inicio
       escreval("Numeros iguais:",num1," e ",num2)
    senao
       se num1 > num2 entao
-         escreval("O primeiro numero que � o",num1," � o maior")
+         escreval("O primeiro numero que é o",num1," é o maior")
       senao
-         escreval("O segundo numero que � o",num2," � o maior")
+         escreval("O segundo numero que é o",num2," é o maior")
       fimse
    fimse
        
