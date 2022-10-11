@@ -14,6 +14,7 @@ A finalidade desse repositórios é compartilhar os codigos de exemplos contidos
 
 ## 🗣️ Redes Sociais
 
+* [Site Pessoal](https://www.netocosta.com.br)
 * [LinkedIn](https://www.linkedin.com/in/netocostajp/)
 * [Youtube](https://www.youtube.com/c/NetoCostajp)
 * [Instagram](https://www.instagram.com/netocostajp/)
