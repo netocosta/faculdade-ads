@@ -31,7 +31,7 @@ i <- 0
 escreval("Quantas notas cada aluno terá? (até 5)")
 repita
    se i > 0 entao
-      escreval("QUANTIDADE INVÁLIDA. Quantos alunos você deseja incluir?")
+      escreval("QUANTIDADE INVÁLIDA. Quantas notas cada aluno terá?")
    fimse
    leia(qtdNotas)
    i <- i + 1
