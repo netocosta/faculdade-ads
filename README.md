@@ -11,8 +11,7 @@ A prática leva a perfeição.
 ## 🚀 Disciplinas
 
 * [Tecnica de Desenvolvimento de Algoritmos](https://github.com/netocosta/faculdade-ads/tree/master/Tecnicas%20de%20Desenvolvimento%20de%20Algoritmos)
-* [Programação Orientada a Objeto](https://github.com/netocosta/faculdade-ads/tree/master/Programacao%20Orientada%20a%20Objeto)
-
+* [Programação Orientada a Objeto](https://github.com/netocosta/faculdade-ads/tree/master/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objeto)
 
 ## 🚀 Bons Estudos.
 
