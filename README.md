@@ -10,8 +10,8 @@ A prática leva a perfeição.
 
 ## 🚀 Disciplinas
 
-* [Tecnica de Desenvolvimento de Algoritmos (VisualG - Portugol)](https://github.com/netocosta/faculdade-ads/tree/master/Tecnicas%20de%20Desenvolvimento%20de%20Algoritmos)
-
+* [Tecnica de Desenvolvimento de Algoritmos](https://github.com/netocosta/faculdade-ads/tree/master/Tecnicas%20de%20Desenvolvimento%20de%20Algoritmos)
+* [Programação Orientada a Objeto](https://github.com/netocosta/faculdade-ads/tree/master/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objeto)
 
 ## 🚀 Bons Estudos.
 
@@ -19,7 +19,7 @@ A prática leva a perfeição.
 
 * [Site Pessoal](https://www.netocosta.com.br)
 * [LinkedIn](https://www.linkedin.com/in/netocostajp/)
-* [Youtube](https://www.youtube.com/c/NetoCostajp)
+* [Youtube](https://www.youtube.com/@dev.netocosta)
 * [Instagram](https://www.instagram.com/netocostajp/)
 * [Facebook](https://www.facebook.com/netocostajp/)
 
