@@ -116,10 +116,10 @@ New Jersey                          O campo Street_Address
 
 SELECT CITY, STATE_PROVINCE,
 DECODE(STATE_PROVINCE,
-'Washington', 'Bem vindo a Casa Branca',
-'Texas', 'Olá Cowboy',
-'California', CITY,
-'New Jersey', STREET_ADDRESS) RETORNO_DECODE
+    'Washington', 'Bem vindo a Casa Branca',
+    'Texas', 'Olá Cowboy',
+    'California', CITY,
+    'New Jersey', STREET_ADDRESS) RETORNO_DECODE
 FROM LOCATIONS;
 
 
