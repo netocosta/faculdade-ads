@@ -1,0 +1,11 @@
+/* 
+  Apaga todos os funcionários do departamento 10
+*/
+SET SERVEROUTPUT ON
+
+DECLARE
+    DEPT_NO EMPLOYEES.DEPARTMENT_ID%TYPE := 10; 
+BEGIN 
+    DELETE FROM EMPLOYEES
+    WHERE DEPARTMENT_ID = DEPT_NO;
+END;

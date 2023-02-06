@@ -1,0 +1,16 @@
+/*
+Stored procedure
+Ex: passagem de parâmetros em procedimentos
+*/
+SET SERVEROUTPUT ON
+
+CREATE OR REPLACE PROCEDURE NR_FONE (V_FONE IN VARCHAR2)
+IS
+    NEW_FONE VARCHAR2(10);
+Begin
+    NEW_FONE := SUBSTR(V_FONE, 1, 4) || '-' || SUBSTR(V_FONE, 5, 4);
+    DBMS_OUTPUT.PUT_LINE(NEW_FONE);
+End NR_FONE;
+
+/* EXECUTANDO */
+exec NR_FONE(12345678);
