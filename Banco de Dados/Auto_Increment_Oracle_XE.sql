@@ -1,4 +1,4 @@
-/* Criando a Tabela*/
+/* Criando a Tabela */
 CREATE TABLE TESTE
 (
     ID NUMBER(10,0) NOT NULL,
@@ -15,6 +15,6 @@ MINVALUE 0
 NOCACHE
 CYCLE;
 
-/* Inserindo um valor*/
+/* Inserindo um valor */
 INSERT INTO TESTE (ID, NOME)
 VALUES (TESTE_SEQ.NEXTVAL, 'NETO COSTA');
