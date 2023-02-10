@@ -1,0 +1,31 @@
+CREATE TABLE clientes
+(
+ ID_CLIENTE number(10),
+ NOME varchar2(50),
+ SOBRENOME varchar2(50),
+ ENDERECO varchar2(50),
+ NUMERO number(5),
+ CIDADE varchar2(50),
+ ESTADO varchar2(50),
+ TELEFONE varchar2(50),
+ CONSTRAINT PK_CLIENTES_ID PRIMARY KEY (ID_CLIENTE)
+);
+
+CREATE TABLE veiculos
+(
+ ID_VEICULO number(10),
+ MARCA varchar2(50),
+ MODELO varchar2(50),
+ COR varchar2(50),
+ ANO number(5),
+ PLACA varchar2(50),
+ ID_CLIENTE number(10),
+ CONSTRAINT PK_VEICULOS_ID PRIMARY KEY (ID_VEICULO),
+ CONSTRAINT FK_VEICULOS_ID FOREIGN KEY (ID_CLIENTE) REFERENCES CLIENTES (ID_CLIENTE)
+)
+
+/* Voce precisa alimentar essas tabelas para poder seguir com o codigo abaixo */
+
+SELECT * FROM CLIENTES C, VEICULOS V WHERE C.ID_CLIENTE=V.ID_CLIENTE;
+
+SELECT * FROM CLIENTES C INNER JOIN VEICULOS V ON C.ID_CLIENTE = V.ID_CLIENTE;
